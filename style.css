@@ -21,6 +21,10 @@ h2 {
 	margin: 3%;
 }
 
+h2 a:link {
+	color: #3882f6;
+}
+
 /* main content style */
 .main {
 	font-size: 18px;
@@ -58,5 +62,5 @@ footer {
 
 /* let visited github link to remain white */
 a:visited {
-	color: white;
+	color: #3882f6;
 }
